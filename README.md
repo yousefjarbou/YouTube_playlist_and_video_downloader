@@ -1,5 +1,5 @@
 # YouTube_playlist_and_video_downloader_PythonScript_June_2024
-### By: Yousef Jarbou
+#### By: Yousef Jarbou
 This project is a simple yet effective YouTube video and playlist downloader built using the `pytube` library. While it may not be the first of its kind, it serves as a useful tool to download videos and playlists from YouTube directly to your device.
 
 ## Introduction
